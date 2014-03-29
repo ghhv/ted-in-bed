@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: TED in bed
- * Plugin URI: http://gawainlynch.com/ted-in-bed
+ * Plugin URI: http://gawainlynch.github.io/ted-in-bed
  * Description: Enable TED video URLs to be embedded in WordPress via the internal oEmbed API
- * Version: 1.0
+ * Version: 1.1
  * License: GPLv2 or later
  * Author: Gawain Lynch
  * Author URI: http://gawainlynch.com/
